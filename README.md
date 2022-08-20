@@ -39,5 +39,22 @@
    - 2.4 Best Practices
      - 2.4.1 [Best Practices](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/2.%20Smart%20Contracts/2.4%20Best%20Practices/2.4.1%20Best%20Practices.md)
      - 2.4.2 [Exercise](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/2.%20Smart%20Contracts/2.4%20Best%20Practices/2.4.2%20Exercise.md)
-4. Decentralized Applications (Dapps)
+    - [Key Takeaways](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/2.%20Smart%20Contracts/Key%20Takeaways.md)
+3. Decentralized Applications (Dapps)
+   - 3.1 Decentralized Application (Dapps)
+     - 3.1.1 [Blockchain Server](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/3.%20Decentralized%20Apps%20(Dapps)/3.1%20Decentralized%20Applications%20(Dapps)/3.1.1%20Blockchain%20Server.md)
+     - 3.1.2 [Dapps](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/3.%20Decentralized%20Apps%20(Dapps)/3.1%20Decentralized%20Applications%20(Dapps)/3.1.2%20Dapp.md)
+     - 3.1.3 [Ethereum APIs](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/3.%20Decentralized%20Apps%20(Dapps)/3.1%20Decentralized%20Applications%20(Dapps)/3.1.3%20Ethereum%20APIs.md)
+   - 3.2 Truffle Development
+     - 3.2.1 [Truffle IDE](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/3.%20Decentralized%20Apps%20(Dapps)/3.2%20Truffle%20Development/3.2.1%20Truffle%20IDE.md)
+     - 3.2.2 [TDD](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/3.%20Decentralized%20Apps%20(Dapps)/3.2%20Truffle%20Development/3.2.2%20TDD.md)
+     - 3.2.3 [Web Interface & Testing](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/3.%20Decentralized%20Apps%20(Dapps)/3.2%20Truffle%20Development/3.2.3%20Web%20Interface%20%26%20Testing.md)
+   - 3.3 Design Improvements
+     - 3.3.1 [Design Improvements](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/3.%20Decentralized%20Apps%20(Dapps)/3.3%20Design%20Improvements/3.3.1%20Design%20Improvements.md)
+     - 3.3.2 [Event Handling](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/3.%20Decentralized%20Apps%20(Dapps)/3.3%20Design%20Improvements/3.3.2%20Event%20Handling.md)
+     - 3.3.3 [Oraclize](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/3.%20Decentralized%20Apps%20(Dapps)/3.3%20Design%20Improvements/3.3.3%20Oraclize.md)
+   - 3.4 Application Models & Standards
+     - 3.4.1 [Dapp Models](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/3.%20Decentralized%20Apps%20(Dapps)/3.4%20Application%20Models%20%26%20Standards/3.4.1%20Dapp%20Models.md)
+     - 3.4.2 [Dapp Standards](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/3.%20Decentralized%20Apps%20(Dapps)/3.4%20Application%20Models%20%26%20Standards/3.4.2%20Dapp%20Standards.md)
+   - [Key Takeaways](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/3.%20Decentralized%20Apps%20(Dapps)/Key%20Takeaways.md)
 5. Blockchain Platforms
