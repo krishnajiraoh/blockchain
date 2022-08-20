@@ -57,4 +57,21 @@
      - 3.4.1 [Dapp Models](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/3.%20Decentralized%20Apps%20(Dapps)/3.4%20Application%20Models%20%26%20Standards/3.4.1%20Dapp%20Models.md)
      - 3.4.2 [Dapp Standards](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/3.%20Decentralized%20Apps%20(Dapps)/3.4%20Application%20Models%20%26%20Standards/3.4.2%20Dapp%20Standards.md)
    - [Key Takeaways](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/3.%20Decentralized%20Apps%20(Dapps)/Key%20Takeaways.md)
-5. Blockchain Platforms
+4. Blockchain Platforms
+   - 4.1 Permissioned Blockchains
+     - 4.1.1 [Hyperledger](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/4.%20Blockchain%20Platforms/4.1%20Permissioned%20Blockchains/4.1.1%20Hyperledger.md)
+     - 4.1.2 [Fabric Services](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/4.%20Blockchain%20Platforms/4.1%20Permissioned%20Blockchains/4.1.2%20Fabric%20Services.md)
+     - 4.1.3 [Fabric Model & Fucntions](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/4.%20Blockchain%20Platforms/4.1%20Permissioned%20Blockchains/4.1.3%20Fabric%20Model%20%26%20Functions.md)
+     - 4.1.4 [Azure](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/4.%20Blockchain%20Platforms/4.1%20Permissioned%20Blockchains/4.1.4%20Azure.md)
+   - 4.2 Decentralized Application Platforms
+     - 4.2.1 [Augur](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/4.%20Blockchain%20Platforms/4.2%20Decentralized%20Application%20Platforms/4.2.1%20Augur.md)
+     - 4.2.2 [Grid+](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/4.%20Blockchain%20Platforms/4.2%20Decentralized%20Application%20Platforms/4.2.2%20Grid%2B.md)
+   - 4.3 Challenges & Solutions
+     - 4.3.1 [Consensus](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/4.%20Blockchain%20Platforms/4.3%20Challenges%20%26%20Solutions/4.3.1%20Consensus.md)
+     - 4.3.2 [Scalability](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/4.%20Blockchain%20Platforms/4.3%20Challenges%20%26%20Solutions/4.3.2%20Scalability.md)
+     - 4.3.3 [Privacy & Confidentiality](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/4.%20Blockchain%20Platforms/4.3%20Challenges%20%26%20Solutions/4.3.3%20Privacy%20%26%20Confidentiality.md)
+     - 4.3.4 [Escrow & Multi-sig](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/4.%20Blockchain%20Platforms/4.3%20Challenges%20%26%20Solutions/4.3.4%20Escrow%20%26%20Multi-sig.md)
+   - 4.4 Alternate Decentralized Solutions
+     - 4.4.1 [Interplantary File Systems (IPFS)](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/4.%20Blockchain%20Platforms/4.4%20Alternative%20Decentralized%20Solutions/4.4.1%20Interplantary%20File%20System%20(IPFS).md)
+     - 4.4.2 [Hashgraph](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/4.%20Blockchain%20Platforms/4.4%20Alternative%20Decentralized%20Solutions/4.4.2%20Hashgraph.md)
+     - 4.4.3 [Social Imperative](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/4.%20Blockchain%20Platforms/4.4%20Alternative%20Decentralized%20Solutions/4.4.2%20Social%20Imperative.md)
