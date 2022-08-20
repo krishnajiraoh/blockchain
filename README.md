@@ -18,6 +18,7 @@
       - 1.4.2 [Consensus Protocol](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/1.%20Blockchain%20Basics/1.4%20Trust%20Essentials/1.4.2%20Consensus%20Protocol.md)
       - 1.4.3 [Robustness](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/1.%20Blockchain%20Basics/1.4%20Trust%20Essentials/1.4.3%20Robustness.md)
       - 1.4.4 [Forks](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/1.%20Blockchain%20Basics/1.4%20Trust%20Essentials/1.4.4%20Forks.md)
+   - [Key Takeaways](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/1.%20Blockchain%20Basics/Key%20Takeaways.md)
      
 2. Smart Contract
    - 2.1
