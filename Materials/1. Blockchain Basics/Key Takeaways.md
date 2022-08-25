@@ -54,5 +54,5 @@
 - Ommer Blocks contribute to the security of the main chain, but are not considered the canonical "truth" for that particular chain height
 
 <p align="right">
-   <a href="./">Next Chapter</a>
+   <a href="../2.%20Smart%20Contracts/2.1%20Smart%20Contacts%20Basics/2.1.1%20Why%20Smart%20Contracts.md">Next Chapter</a>
 </p>
