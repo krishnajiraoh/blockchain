@@ -1,3 +1,5 @@
+#Blockchain Basic - Key Takeways:
+
 ## Week One: Defining a Blockchain
 - The blockchain technology supports methods for
   - a decentralized peer-to-peer network
@@ -50,3 +52,7 @@
 - A Soft Fork is a fork where updated versions of the protocol are backwards compatible with previous versions. 
 - A Hard Fork is a change of the protocol that is not backwards compatible with older versions of the client. Participants would absolutely need to upgrade their software in order to recognize new blocks. 
 - Ommer Blocks contribute to the security of the main chain, but are not considered the canonical "truth" for that particular chain height
+
+<p align="right">
+   <a href="./">Next Chapter</a>
+</p>
