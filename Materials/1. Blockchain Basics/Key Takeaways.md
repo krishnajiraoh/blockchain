@@ -1,4 +1,4 @@
-#Blockchain Basic - Key Takeways:
+# Blockchain Basics - Key Takeways:
 
 ## Week One: Defining a Blockchain
 - The blockchain technology supports methods for
