@@ -1,6 +1,6 @@
 1. Blockchain Basics
    - 1.1 Blockchain Defined
-     - 1.1.1 [Bitcoin & Blockchain](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/1.%20Blockchain%20Basics/1.1%20Blockchain%20Defined/1.1.1%20Bitcoin%20%26%20Blockchain.md)
+     - 1.1.1 [Bitcoin & Blockchain](/Materials/1.%20Blockchain%20Basics/1.1%20Blockchain%20Defined/1.1.1%20Bitcoin%20%26%20Blockchain.md)
      - 1.1.2 [Blockchain Structure](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/1.%20Blockchain%20Basics/1.1%20Blockchain%20Defined/1.1.2%20Blockchain%20Structure)
      - 1.1.3 [Basic Operations](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/1.%20Blockchain%20Basics/1.1%20Blockchain%20Defined/1.1.3%20Basic%20Operations.md)
       - 1.1.4 [Beyond Bitcoin](https://github.com/krishnajiraoh/Blockchain/blob/main/Materials/1.%20Blockchain%20Basics/1.1%20Blockchain%20Defined/1.1.4%20Beyond%20Bitcoin.md)
