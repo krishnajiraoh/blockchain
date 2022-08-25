@@ -75,4 +75,4 @@
    - 4.4 Alternate Decentralized Solutions
      - 4.4.1 [Interplantary File Systems (IPFS)](/Materials/4.%20Blockchain%20Platforms/4.4%20Alternative%20Decentralized%20Solutions/4.4.1%20Interplantary%20File%20System%20(IPFS).md)
      - 4.4.2 [Hashgraph](/Materials/4.%20Blockchain%20Platforms/4.4%20Alternative%20Decentralized%20Solutions/4.4.2%20Hashgraph.md)
-     - 4.4.3 [Social Imperative](/Materials/4.%20Blockchain%20Platforms/4.4%20Alternative%20Decentralized%20Solutions/4.4.2%20Social%20Imperative.md)
+     - 4.4.3 [Social Imperative](/Materials/4.%20Blockchain%20Platforms/4.4%20Alternative%20Decentralized%20Solutions/4.4.3%20Social%20Imperative.md)
